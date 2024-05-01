@@ -1,0 +1,12 @@
+{
+    "privateKey":"0x628a56bd7fc66a2b0c8.......7f9597d7b9c1c85facf9a788107",
+    "wsProviderUrl": "wss://mainnet.infura.io/ws/v3/",
+    "flashbotsUrl": "https://relay.flashbots.net",
+    "httpProviderUrl": "https://mainnet.infura.io/v3/",
+    "wethAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "uniswapAddress": "0x7a250d5630b4cf539739df2c5dacb4c659f2488d",
+    "uniswapFactoryAddress": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+    "universalRouterAddress": "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+    "chainId": 1,
+    "buyAmount": "0.1"
+}

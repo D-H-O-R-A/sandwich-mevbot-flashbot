@@ -1,0 +1,16 @@
+{
+  "name": "mevbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "contato@diegoorisderoa.com ( Diego H. O. R. Antunes )",
+  "license": "MIT",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.1",
+    "ethers": "^5.7.2"
+  }
+}
